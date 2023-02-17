@@ -1,5 +1,3 @@
 Read me~
 
-This is a LOCAL change.
-
-Re-try for LOCAL change.
+This is a local change.
